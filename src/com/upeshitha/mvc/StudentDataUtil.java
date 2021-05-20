@@ -10,7 +10,7 @@ import java.util.List;
  */
 public class StudentDataUtil {
 	
-	public static List<Student> getStudents() {
+	public static List<Student> getStudentsDeatailsList() {
 		
 		List<Student> studentsList = new ArrayList<>();
 		studentsList.add(new Student("Eranda", "Upeshitha", "upeshitha@email.com"));
